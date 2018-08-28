@@ -1,6 +1,6 @@
 {
   "name": "zantui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "zantui",
   "description": "A high quality UI components Library with Vue.js",
   "homepage": "http://www.anooc.com",
@@ -13,7 +13,7 @@
       "ui",
       "framework"
   ],
-  "main": "dist/iview.js",
+  "main": "dist/zantui.js",
   "files": [
       "dist",
       "src"

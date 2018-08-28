@@ -14,8 +14,8 @@ module.exports = merge(webpackBaseConfig, {
     output: {
         path: path.resolve(__dirname, '../dist'),
         publicPath: '/dist/',
-        filename: 'iview.js',
-        library: 'iview',
+        filename: 'zantui.js',
+        library: 'zantui',
         libraryTarget: 'umd',
         umdNamedDefine: true
     },
