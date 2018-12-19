@@ -77,7 +77,7 @@
                 }
             },
             change (data) {
-                console.info("radio-button"+data);
+                console.info('radio-button'+data);
                 this.currentValue = data.value;
                 this.updateValue();
                 this.$emit('input', data.value);
